@@ -30,4 +30,6 @@ roletas: Cadastro das mesas monitoradas.
 
 registroroleta: Histórico completo de sorteios com timestamps e chaves estrangeiras.
 
+![Estrutura do Banco de Dados](img/modelo_bd.png)
+
 
